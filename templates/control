@@ -1,0 +1,6 @@
+Package: firefox
+Version: %version%
+Priority: optional
+Architecture: amd64
+Maintainer: Benjamin Kahlau
+Description: Firefox
